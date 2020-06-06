@@ -1,0 +1,34 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  text-align: center;
+}
+
+.navbar {
+  padding: 1.5% 20%;
+}
+
+/* promocion e imagenes */
+
+.container-fluid {
+  padding: 1.5% 25%;
+}
+
+/* newsletter */
+
+.newsletter {
+  padding: 1.5% 30%;
+}
+
+/* footer */
+
+footer {
+  background-color: black;
+}
+
+footer i {
+  color: white;
+  font-size:
+}
