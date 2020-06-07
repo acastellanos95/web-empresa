@@ -19,16 +19,18 @@ body {
 /* newsletter */
 
 .newsletter {
-  padding: 1.5% 30%;
+  padding: 1.5% 3%;
 }
 
 /* footer */
 
-footer {
+#footer {
   background-color: black;
+  margin: 0;
 }
 
-footer i {
+#footer i,p,a {
   color: white;
-  font-size:
+  padding: 22px 0;
+  margin: 0 10px;
 }
